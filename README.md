@@ -1,4 +1,4 @@
-# datacamp-pysci-1
+# Python Notebooks for Data Science
 Data Camp - Data Scientist (python) #1
 
 Resolving Python issues @GSAPP
